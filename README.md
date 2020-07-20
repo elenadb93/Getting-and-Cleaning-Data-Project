@@ -1,7 +1,7 @@
 # Getting and Cleaning Data Project
 ## Final project for the Getting and Cleaning Data course
 
-The script ('run_analysis.R') uploads all the relevant files (for the scope of the analysis) located in the working directory. Relevant files for the test data set are: 
+The script ('run_analysis.R') uploads all the relevant files (for the scope of the analysis) located in the working directory. Relevant files are: 
  - X_test.txt
  - y_test.txt
  - subject_test.txt 
