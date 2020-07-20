@@ -1,5 +1,4 @@
 # Analysis Description 
-## Import files 
 ### Import test set data
 data_test <- read.delim('./test/X_test.txt', header = FALSE, sep = '')
 
